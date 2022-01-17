@@ -6,10 +6,10 @@ package com.example.versionplugin
 object BuildVersion {
     const val compileSdkVersion = 29
     const val buildToolsVersion = "29.0.2"
-    const val minSdkVersion = 17
-    const val targetSdkVersion = 26
-    const val versionCode = 102
-    const val versionName = "1.0.2"
+    const val minSdkVersion = 21//17
+    const val targetSdkVersion = 32//26
+    const val versionCode = 1//102
+    const val versionName = "1.0"//"1.0.2"
 }
 
 /**
