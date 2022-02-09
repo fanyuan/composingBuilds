@@ -7,6 +7,7 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "composingBuilds"
-include ':app'
 //include ':versionplugin'
 includeBuild ("VersionPlugin")
+include ':app'
+
