@@ -27,7 +27,7 @@ object BuildConfig {
     const val cardview = "androidx.cardview:cardview:1.0.0"
 
     //Depend
-    const val junit = "junit:junit:4.12"
+    const val junit = "junit:junit:4.+"//"junit:junit:4.12"
     const val espresso_core = "com.android.support.test.espresso:espresso-core:3.0.2"
     const val guava = "com.google.guava:guava:24.1-jre"
     const val commons = "org.apache.commons:commons-lang3:3.6"
