@@ -4,7 +4,7 @@ plugins {
     id 'com.android.application'
     id 'kotlin-android'
 
-    id 'com.example.versionplugin'
+    //id 'com.example.versionplugin'
 }
 
 //import com.example.versionplugin.BuildVersion

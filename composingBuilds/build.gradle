@@ -12,7 +12,9 @@ buildscript {
         // in the individual module build.gradle files
     }
 }
-
+plugins {
+    id 'com.example.versionplugin'
+}
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
